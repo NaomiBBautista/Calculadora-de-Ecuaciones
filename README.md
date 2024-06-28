@@ -3,6 +3,12 @@ Este proyecto fue la entrega final del semestre de la materia de Modelos Matemá
 
 Esta es la segunda versión del proyecto, creada en otro lenguaje, con el fin de poder acceder de manera online.
 
+![Imagen Calculadora](imagenes/img0.png)
+
+### Material de Apoyo
+Dentro del repositorio se encuentra la carpeta `material-de-apoyo` en la que encontrarás tanto el **Manual de Usuario** como **Manual de Programador**, que te explicara el paso a paso para poder utilizar correctamente la cálculadora y comprender de una manera más sencilla el proyecto y sus especificaciones. 
+Igualmente podrás acceder a **Métodos Matemáticos** si buscas una explicación mas amplia sobre cada método númerico utilizado y el algoritmo.
+
 ### Métodos Matemáticos:
 Los métodos empleados por la calculadora son los siguientes:
 * Gráfico
@@ -13,35 +19,28 @@ Los métodos empleados por la calculadora son los siguientes:
 * Raíces Multiples
 * Falsa Posición
 
-### Material de Apoyo
-Dentro del repositorio se encuentra la carpeta `material-de-apoyo` en la que encontrarás un **Manual de Usuario** que te explicara el paso a paso para poder utilizar correctamente la cálculadora. Igualmente podrás acceder a **Métodos Matemáticos** si buscas una explicación mas amplia sobre cada método númerico utilizado y el algoritmo.
-
 ### Capturas de Pantalla
-
-**Gráfico**:
-
-![Método Gráfico](imagenes/metodo1.png)
 
 **Bisección**:
 
-![Método Bisección](imagenes/metodo2.png)
+![Método Bisección](imagenes/img1.png)
 
 **Punto Fijo**:
 
-![Método Punto Fijo](imagenes/metodo3.png)
+![Método Punto Fijo](imagenes/img2.png)
 
 **Newton-Raphson**:
 
-![Método Newton](imagenes/metodo4.png)
+![Método Newton](imagenes/img3.png)
 
 **Secante**:
 
-![Método Secante](imagenes/metodo5.png)
+![Método Secante](imagenes/img4.png)
 
 **Raíces Multiples**:
 
-![Método Multiple](imagenes/metodo6.png)
+![Método Multiple](imagenes/img5.png)
 
 **Falsa Posición**:
-![Método Falsa Posición](imagenes/metodo7.png).
+![Método Falsa Posición](imagenes/img6.png).
 
