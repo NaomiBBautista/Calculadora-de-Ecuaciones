@@ -16,7 +16,7 @@ Descripción del proceso:
      - De lo contrario, determinar si la raíz se encuentra en el subintervalo `[a, c]` o `[c, b]` en función del signo de `f(a)` y `f(c)` o de `f(c)` y `f(b)`, respectivamente.
      - Acotar el nuevo intervalo de búsqueda al subintervalo que contiene la raíz.
      - Incrementar el contador de iteraciones i en uno.
-  * Si no se ha encontrado una solución después de i iteraciones, mostrar un mensaje de error y terminar la ejecución del
+   * Si no se ha encontrado una solución después de i iteraciones, mostrar un mensaje de error y terminar la ejecución del
     algoritmo.
 7. Salida de resultados: Muestre al usuario la raíz encontrada y el número de iteraciones necesarias para alcanzar la solución.
 8. Fin: Finalice el diagrama de flujo.
