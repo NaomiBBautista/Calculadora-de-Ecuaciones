@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <title>Calculadora de Ecuaciones</title>
+
+  <!--Fuentes-->
+</head>
+
+<body>
+  <div class="container">
+    <h1>Calculadora de Ecuaciones</h1>
+
+    <form id="equationForm">
+      <input type="number" id="coefficientA" placeholder="Coeficiente a">
+      <input type="number" id="coefficientB" placeholder="Coeficiente b">
+      <input type="number" id="coefficientC" placeholder="Coeficiente c">
+      <input type="number" id="coefficientD" placeholder="Coeficiente d (solo para ecuaciones de tercer grado)">
+
+      <h2>Seleccione el método</h2>
+
+      <div class="metodos">
+        <button type="button" onclick="resolverBi(); mostrarBiseccion();">Bisección</button>
+        <button type="button" onclick="resolverPunto(); mostrarPuntoFijo();">Punto Fijo</button>
+        <button type="button" onclick="resolverNewton(); mostrarNewtonRaphson();">Newton-Raphson</button>
+        <button type="button" onclick="resolverSecante(); mostrarSecante();">Secante</button>
+        <button type="button" onclick="resolverRaices(); mostrarRaicesMultiples();">Raíces Múltiples</button>
+        <button type="button" onclick="resolverFalsa(); mostrarFalsaPosicion();">Falsa Posición</button>
+      </div>
+
+    </form>
+
+    
+
+    <div id="img-biseccion" style="display: none;">
+      <img src="/imagenes/biseccion.png" width="500px" alt="imagen-biseccion">
+    </div>
+
+    <div id="img-puntoFijo" style="display: none;">
+      <img src="/imagenes/puntoFijo.png" width="500px" alt="imagen-puntoFijo">
+    </div>
+
+    <div id="img-newtonRaphson" style="display: none;">
+      <img src="/imagenes/newton.png" width="500px" alt="imagen-newtonRaphson">
+    </div>
+
+    <div id="img-secante" style="display: none;">
+      <img src="/imagenes/secante.png" width="500px" alt="imagen-secante">
+    </div>
+
+    <div id="img-raicesMultiples" style="display: none;">
+      <img src="/imagenes/raicesMultiples.png" width="500px" alt="imagen-raicesMultiples">
+    </div>
+
+    <div id="img-falsaPosicion" style="display: none;">
+      <img src="/imagenes/falsaPosicion.png" width="500px" alt="imagen-falsaPosicion">
+    </div>
+
+    <div id="result"></div>
+
+    <div id="result2"></div>
+
+  </div>
+
+  <script src="script.js"></script>
+  <script src="biseccion.js"></script>
+  <script src="newton-raphson.js"></script>
+  <script src="punto_fijo.js"></script>
+  <script src="secante.js"></script>
+  <script src="raices_multiples.js"></script>
+  <script src="falsa_posicion.js"></script>
+</body>
+
+</html>
