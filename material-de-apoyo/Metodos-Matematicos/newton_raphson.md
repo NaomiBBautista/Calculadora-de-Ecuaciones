@@ -1,4 +1,4 @@
-**Newton-Raphson**:
+# Newton-Raphson:
 
 ![Método Newton](imagenes/metodo4.png)
 
