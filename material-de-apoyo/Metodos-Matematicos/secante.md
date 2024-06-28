@@ -14,7 +14,7 @@ variables separadas, como 'f0' y 'f1'.
 la diferencia absoluta entre 'x1' y 'x0' sea menor que la 'tolerancia' establecida.
 6. Dentro del ciclo, calcula la siguiente aproximación utilizando la fórmula de la secante:
 
-                **x2 = x1 - (f1 * (x1 - x0)) / (f1 - f0)**
+        x2 = x1 - (f1 * (x1 - x0)) / (f1 - f0)
 
 7. Calcula el valor de la función para 'x2' y almacénalo en una variable 'f2'.
 8. Verifica si 'f2' es lo suficientemente cercano a cero como para considerarlo una solución aceptable. Si es así, muestra 'x2' como
