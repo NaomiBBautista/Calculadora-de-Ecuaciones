@@ -1,4 +1,4 @@
-# CalculadoraRaicesV1
+# Calculadora de Ecuaciones V2
 Este proyecto fue la entrega final del semestre de la materia de Modelos Matemáticos, el próposito de esta práctica fue crear una calculadora de funciones que prediga la aproximación de las raíces de la función por distintos métodos, segun el que se seleccione.
 
 Esta es la segunda versión del proyecto, creada en otro lenguaje, con el fin de poder acceder de manera online.
