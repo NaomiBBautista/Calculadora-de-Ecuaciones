@@ -1,4 +1,4 @@
-**Punto Fijo**:
+# Punto Fijo:
 
 ![Método Punto Fijo](imagenes/metodo3.png)
 
