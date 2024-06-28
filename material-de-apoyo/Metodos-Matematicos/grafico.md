@@ -1,4 +1,4 @@
-**Gráfico**:
+# Gráfico:
 
 ![Método Gráfico](imagenes/metodo1.png)
 
