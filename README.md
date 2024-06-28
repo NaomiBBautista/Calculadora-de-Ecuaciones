@@ -3,7 +3,7 @@ Este proyecto fue la entrega final del semestre de la materia de Modelos Matemá
 
 Esta es la segunda versión del proyecto, creada en otro lenguaje, con el fin de poder acceder de manera online.
 
-![Imagen Calculadora](imagenes/img0.png)
+![Imagen Calculadora](Calculadora-Ecuaciones/imagenes/img0.png)
 
 ### Material de Apoyo
 Dentro del repositorio se encuentra la carpeta `material-de-apoyo` en la que encontrarás tanto el **Manual de Usuario** como **Manual de Programador**, que te explicara el paso a paso para poder utilizar correctamente la cálculadora y comprender de una manera más sencilla el proyecto y sus especificaciones. 
@@ -23,24 +23,24 @@ Los métodos empleados por la calculadora son los siguientes:
 
 **Bisección**:
 
-![Método Bisección](imagenes/img1.png)
+![Método Bisección](Calculadora-Ecuaciones/imagenes/img1.png)
 
 **Punto Fijo**:
 
-![Método Punto Fijo](imagenes/img2.png)
+![Método Punto Fijo](Calculadora-Ecuaciones/imagenes/img2.png)
 
 **Newton-Raphson**:
 
-![Método Newton](imagenes/img3.png)
+![Método Newton](Calculadora-Ecuaciones/imagenes/img3.png)
 
 **Secante**:
 
-![Método Secante](imagenes/img4.png)
+![Método Secante](Calculadora-Ecuaciones/imagenes/img4.png)
 
 **Raíces Multiples**:
 
-![Método Multiple](imagenes/img5.png)
+![Método Multiple](Calculadora-Ecuaciones/imagenes/img5.png)
 
 **Falsa Posición**:
-![Método Falsa Posición](imagenes/img6.png).
+![Método Falsa Posición](Calculadora-Ecuaciones/imagenes/img6.png).
 
