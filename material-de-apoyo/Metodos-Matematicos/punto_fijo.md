@@ -19,8 +19,7 @@ Descripción del proceso:
 
         x_actual = g(x_anterior)
     
-donde *g(x)* es una función derivada de la ecuación original. Puedes proporcionar una fórmula específica para *g(x)* en función de la ecuación dada.
-Utiliza la variable `x_anterior` para calcular el nuevo valor de `x_actual`.
+donde *g(x)* es una función derivada de la ecuación original. Puedes proporcionar una fórmula específica para *g(x)* en función de la ecuación dada. Utiliza la variable `x_anterior` para calcular el nuevo valor de `x_actual`.
 8. Verificar convergencia: Compara la diferencia absoluta entre la nueva aproximación `(x_actual)` y la aproximación anterior `(x_anterior)` con la tolerancia establecida. Utiliza la condición: `abs(x_actual - x_anterior) < tolerancia`. Si la condición es verdadera, se considera que la solución ha convergido y se pasa al siguiente paso. De lo contrario, se actualiza el valor de `x_anterior` con el valor de `x_actual`, se incrementa el contador de iteraciones en 1 y se vuelve al paso 7.
 9. Mostrar resultado: Muestra la solución encontrada, que es la aproximación final que cumple con la tolerancia establecida. Puedes imprimir el valor de `x_actual` como la solución encontrada.
 10. Fin: Finaliza el diagrama de flujo.
