@@ -1,4 +1,4 @@
-**Bisección**:
+# Bisección:
 
 ![Método Bisección](imagenes/metodo2.png)
 
