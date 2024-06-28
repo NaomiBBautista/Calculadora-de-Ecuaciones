@@ -1,5 +1,5 @@
 # Calculadora de Ecuaciones V2
-Este proyecto fue la entrega final del semestre de la materia de Modelos Matemáticos, el próposito de esta práctica fue crear una calculadora de funciones que prediga la aproximación de las raíces de la función por distintos métodos, segun el que se seleccione.
+Este proyecto fue creado para la entrega final del semestre de la materia de Modelos Matemáticos, el próposito de esta práctica fue crear una herramienta que te permite resolver ecuaciones cúbicas y de segundo grado utilizando diferentes métodos numéricos.
 
 Esta es la segunda versión del proyecto, creada en otro lenguaje, con el fin de poder acceder de manera online.
 
@@ -42,5 +42,5 @@ Los métodos empleados por la calculadora son los siguientes:
 ![Método Multiple](Calculadora-Ecuaciones/imagenes/img5.png)
 
 **Falsa Posición**:
-![Método Falsa Posición](Calculadora-Ecuaciones/imagenes/img6.png).
 
+![Método Falsa Posición](Calculadora-Ecuaciones/imagenes/img6.png).
