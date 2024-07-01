@@ -1,6 +1,6 @@
 # Bisección:
 
-![Imagen Calculadora](Calculadora-Ecuaciones/imagenes/img0.png)
+![Imagen Bisección](main/Calculadora-Ecuaciones/imagenes/metodo2.png)
 
 Descripción del proceso:
 1. Inicio: Inicie el diagrama de flujo.
