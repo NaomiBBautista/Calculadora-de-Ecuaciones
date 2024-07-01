@@ -1,6 +1,6 @@
 # Raíces Multiples:
 
-![Método Multiple](imagenes/metodo6.png)
+![Método Multiple](../../Calculadora-Ecuaciones/imagenes/metodo6.png)
 
 Descripción del proceso:
 1. Inicio: Comienza el programa.
