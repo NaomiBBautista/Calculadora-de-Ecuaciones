@@ -1,6 +1,6 @@
 # Gráfico:
 
-![Método Gráfico](imagenes/metodo1.png)
+![Método Gráfico](../../Calculadora-Ecuaciones/imagenes/metodo1.png)
 
 Descripción del proceso:
 1. Inicio: El programa comienza aquí.
