@@ -1,6 +1,6 @@
 # Secante:
 
-![Método Secante](imagenes/metodo5.png)
+![Método Secante](../../Calculadora-Ecuaciones/imagenes/metodo5.png)
 
 Descripción del proceso:
 1. Comienza el diagrama de flujo con el inicio del programa.
