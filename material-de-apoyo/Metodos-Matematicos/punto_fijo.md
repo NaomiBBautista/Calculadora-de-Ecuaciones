@@ -1,6 +1,6 @@
 # Punto Fijo:
 
-![Método Punto Fijo](imagenes/metodo3.png)
+![Método Punto Fijo](../../Calculadora-Ecuaciones/imagenes/metodo3.png)
 
 Descripción del proceso:
 1. Inicio: Comienza el diagrama de flujo.
