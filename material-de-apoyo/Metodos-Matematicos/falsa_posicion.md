@@ -1,6 +1,6 @@
 # Falsa-Posición:
 
-![Método Falsa Posición](imagenes/metodo7.png).
+![Método Falsa Posición](../../Calculadora-Ecuaciones/imagenes/metodo7.png).
 
 Descripción del proceso:
 1. Inicio: Comienza el programa.
