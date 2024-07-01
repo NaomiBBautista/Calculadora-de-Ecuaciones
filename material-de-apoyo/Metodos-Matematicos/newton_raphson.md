@@ -1,6 +1,6 @@
 # Newton-Raphson:
 
-![Método Newton](imagenes/metodo4.png)
+![Método Newton](../../Calculadora-Ecuaciones/imagenes/metodo4.png)
 
 Descripción del proceso:
 1. Inicio: Comienza el programa.
