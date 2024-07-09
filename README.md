@@ -29,11 +29,15 @@ Los métodos empleados por la calculadora son los siguientes:
     <img src="Calculadora-Ecuaciones/imagenes/img1.png" alt="Método Bisección" />
 </div>
 
+
+
 **Punto Fijo**:
 
 <div align="center">
     <img src="Calculadora-Ecuaciones/imagenes/img2.png" alt="Método Punto Fijo" />
 </div>
+
+
 
 **Newton-Raphson**:
 
@@ -41,17 +45,23 @@ Los métodos empleados por la calculadora son los siguientes:
     <img src="Calculadora-Ecuaciones/imagenes/img3.png" alt="Método Newton" />
 </div>
 
+
+
 **Secante**:
 
 <div align="center">
     <img src="Calculadora-Ecuaciones/imagenes/img4.png" alt="Método Secante" />
 </div>
 
+
+
 **Raíces Multiples**:
 
 <div align="center">
     <img src="Calculadora-Ecuaciones/imagenes/img5.png" alt="Método Multiple" />
 </div>
+
+
 
 **Falsa Posición**:
 
