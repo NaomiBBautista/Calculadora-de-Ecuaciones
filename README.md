@@ -3,7 +3,9 @@ Este proyecto fue creado para la entrega final del semestre de la materia de Mod
 
 Esta es la segunda versión del proyecto, creada en otro lenguaje, con el fin de poder acceder de manera online.
 
-![Imagen Calculadora](Calculadora-Ecuaciones/imagenes/img0.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img0.png" alt="Imagen Calculadora" />
+</div>
 
 ### Material de Apoyo
 Dentro del repositorio se encuentra la carpeta `material-de-apoyo` en la que encontrarás tanto el **Manual de Usuario** como **Manual de Programador**, que te explicara el paso a paso para poder utilizar correctamente la calculadora y comprender de una manera más sencilla el proyecto y sus especificaciones. 
@@ -23,24 +25,36 @@ Los métodos empleados por la calculadora son los siguientes:
 
 **Bisección**:
 
-![Método Bisección](Calculadora-Ecuaciones/imagenes/img1.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img1.png" alt="Método Bisección" />
+</div>
 
 **Punto Fijo**:
 
-![Método Punto Fijo](Calculadora-Ecuaciones/imagenes/img2.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img2.png" alt="Método Punto Fijo" />
+</div>
 
 **Newton-Raphson**:
 
-![Método Newton](Calculadora-Ecuaciones/imagenes/img3.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img3.png" alt="Método Newton" />
+</div>
 
 **Secante**:
 
-![Método Secante](Calculadora-Ecuaciones/imagenes/img4.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img4.png" alt="Método Secante" />
+</div>
 
 **Raíces Multiples**:
 
-![Método Multiple](Calculadora-Ecuaciones/imagenes/img5.png)
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img5.png" alt="Método Multiple" />
+</div>
 
 **Falsa Posición**:
 
-![Método Falsa Posición](Calculadora-Ecuaciones/imagenes/img6.png).
+<div align="center">
+    <img src="Calculadora-Ecuaciones/imagenes/img6.png" alt="Método Falsa Posición" />
+</div>
